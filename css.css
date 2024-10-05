@@ -1,0 +1,16 @@
+
+body {
+    margin: 0; 
+    background-image: url("bibliotheque3.jpg");
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100vh; 
+}
+
+#h1{text-align: center;font-family: bold;color:rgb(0, 0, 0)}
+#form{
+    display: none;
+}
+#confirmer{display: none;}
+label{font-size: 1.3em;color:white}
